@@ -1,0 +1,7 @@
+{
+  "name": "figma to RN",
+  "id": "987107526164584540",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
